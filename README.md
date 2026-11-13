@@ -2,7 +2,7 @@
 
 Tools I built for my own work. I set the requirements and rules, and built them with Claude Code and Codex.
 
-**[Portfolio](https://ooooo-420.github.io/blackhole-memory-relay/)**: try all four in your browser. The demos use sample data.
+**[Portfolio](https://ooooo-420.github.io/blackhole-memory-relay/)**: I add new work and tweak the design as I go.
 
 | Project | What it does | Links |
 |---|---|---|
